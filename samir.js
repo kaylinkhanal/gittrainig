@@ -1,5 +1,5 @@
 const obj={
-    name:"sameer",
+    name:"Dines, Samir",
     address:{
         street:"godawari",
         ward:14,
