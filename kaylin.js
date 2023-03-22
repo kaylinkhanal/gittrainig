@@ -1,7 +1,7 @@
 console.log("hi");
 
-let sum = (a, b) => {
-  return a + b;
+let sum = (a, b,c) => {
+  return a + b+c;
 };
 
-alert(sum(2, 5));
+alert(sum(2, 5,2));
