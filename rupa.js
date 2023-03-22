@@ -3,3 +3,4 @@ const secondArr=[1, 2 , 99]
  
 const output = firstArr.concat(secondArr)
 console.log(output)
+console.log("Hello I had made the some changes")
