@@ -13,3 +13,5 @@ function outer(){
     return inner()
 }
 outer()
+
+console.log("SMOOTH CRIMINAL")
