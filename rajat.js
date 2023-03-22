@@ -10,3 +10,6 @@ const checkPalindrome = (string) => {
 const string = prompt("Enter a string: ");
 const value = checkPalindrome(string);
 alert(value);
+const a=50
+const b=20
+console.log(a-b)
