@@ -1,6 +1,6 @@
 const bio = () => {
   console.log(
-    "This is raunak and I changed regular function to arrow function"
+    "Hi raunak, this is rajat and I changed regular function to arrow function"
   );
 };
 
