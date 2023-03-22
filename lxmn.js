@@ -1,5 +1,6 @@
-const myarr = ['shiva', 'shyam', 'hari' ,'geet','gopi']
+const myarr = ['shiva', 'shyam', 'hari' ,'geet','gopi', 'sita','gita']
 const newarr = myarrfilter((items)=>{
-    return items.includes('a')
+    return items.includes('t')
+
 });
 console.log(newarr);
