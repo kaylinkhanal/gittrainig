@@ -1,4 +1,4 @@
-const firstarr = [1,2,3,7]
+const firstarr = [1,2,3,"a"]
 const secondarr = [4,5,6]
 
 const thridarr = firstarr.concat(secondarr)
