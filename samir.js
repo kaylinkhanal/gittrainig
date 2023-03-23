@@ -7,5 +7,5 @@ const obj={
 }
 
 console.log(`My name is ${obj.name}. I live in ${obj.address.street}.`)
-
+console.log("test")
 
